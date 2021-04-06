@@ -3,12 +3,11 @@ public class LastDigitChecker {
         if (!isValid(first) || !isValid(second) || !isValid(third)){
             return false;
         } else {
-            int compareFirstDigit = 0;
-            int compareSecondDigit = 0;
-            int compareThirdDigit = 0;
-            int tempSecond = 0;
-            int tempThird =0;
-            boolean hasShared = false;
+            int compareFirstDigit;
+            int compareSecondDigit;
+            int compareThirdDigit;
+            int tempSecond;
+            int tempThird;
 
             while(first != 0) {
                 compareFirstDigit = first % 10;
@@ -21,11 +20,7 @@ public class LastDigitChecker {
                     while(tempThird != 0) {
                         compareThirdDigit = tempThird % 10;
 
-                        if((compareFirstDigit == compareSecondDigit) || (compareFirstDigit == compareThirdDigit) || (compareSecondDigit == compareThirdDigit)) {
-                            return true;
-                        } else {
-                            return false;
-                        }
+                        return (compareFirstDigit == compareSecondDigit) || (compareFirstDigit == compareThirdDigit) || (compareSecondDigit == compareThirdDigit);
                     }
 
                     tempSecond /= 10;
@@ -39,9 +34,6 @@ public class LastDigitChecker {
     }
 
     public static boolean isValid(int number){
-        if(number < 10 || number > 1000){
-            return false;
-        }
-        return true;
+        return number >= 10 && number <= 1000;
     }
 }
