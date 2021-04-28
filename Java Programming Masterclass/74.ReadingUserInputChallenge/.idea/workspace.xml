@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d6e828-202d-46f7-99b5-e255dbb37a22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../72.ReadingUserInput/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../72.ReadingUserInput/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../72.ReadingUserInput/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../72.ReadingUserInput/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../72.ReadingUserInput/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../72.ReadingUserInput/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../72.ReadingUserInput/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../72.ReadingUserInput/72.ReadingUserInput.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DiagonalStar/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DiagonalStar/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DiagonalStar/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DiagonalStar/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DiagonalStar/DiagonalStar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DiagonalStar/src/DiagonalStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DiagonalStar/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LargestPrime/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LargestPrime/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LargestPrime/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LargestPrime/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LargestPrime/LargestPrime.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LargestPrime/src/LargestPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LargestPrime/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlourPackProblem/src/FlourPacker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackProblem/src/FlourPacker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlourPackProblem/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackProblem/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +74,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
@@ -128,5 +106,17 @@
       <updated>1618297044972</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
